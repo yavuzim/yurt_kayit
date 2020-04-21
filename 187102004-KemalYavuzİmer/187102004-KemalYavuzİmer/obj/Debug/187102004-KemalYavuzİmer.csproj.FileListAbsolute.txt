@@ -1,0 +1,22 @@
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\187102004-KemalYavuzİmer.exe.config
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\187102004-KemalYavuzİmer.exe
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\187102004-KemalYavuzİmer.pdb
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\MaterialSkin.dll
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.csprojResolveAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Form1.resources
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Properties.Resources.resources
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.csproj.GenerateResource.Cache
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.exe
+C:\Users\YAVUZ İMER\Desktop\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.pdb
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\187102004-KemalYavuzİmer.exe.config
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.exe
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.pdb
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\187102004-KemalYavuzİmer.exe
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\bin\Debug\187102004-KemalYavuzİmer.pdb
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.csprojResolveAssemblyReference.cache
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Form1.resources
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Properties.Resources.resources
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\187102004-KemalYavuzİmer.csproj.GenerateResource.Cache
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Sifre_degistirme.resources
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Kayitol.resources
+D:\Projeler\projeler\Forms Application\187102004-KemalYavuzİmer\187102004-KemalYavuzİmer\obj\Debug\_187102004_KemalYavuzİmer.Anasayfa.resources
